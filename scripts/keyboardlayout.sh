@@ -3,4 +3,4 @@
 setxkbmap us -variant intl
 
 #load custom modmap mit umlauten
-xmodmap ~/.Xmodmap
+xmodmap ~/.conf/xmodmap
