@@ -1,0 +1,303 @@
+{
+   "checksum": "ae4647b0491b4ba5a7fa04c14801ad77",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "12986847151022800",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13133036392888000",
+               "stars.id": "ssc_bf18e584a1aac924",
+               "stars.pageData": "Ig5MVEJZbllQdkcxSHRFTQ==",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "http://www.google.com/?source=search_app"
+         }, {
+            "date_added": "13100207726985600",
+            "id": "17",
+            "meta_info": {
+               "last_visited": "13186431180527047",
+               "last_visited_desktop": "13197324639470900"
+            },
+            "name": "",
+            "sync_transaction_version": "16",
+            "type": "url",
+            "url": "http://www.netflix.com/browse"
+         }, {
+            "date_added": "12997639299380000",
+            "id": "18",
+            "meta_info": {
+               "last_visited": "13160882736643555",
+               "last_visited_desktop": "13198833961796550"
+            },
+            "name": "",
+            "sync_transaction_version": "17",
+            "type": "url",
+            "url": "http://www.youtube.com/"
+         }, {
+            "date_added": "13024610811428000",
+            "id": "19",
+            "meta_info": {
+               "last_visited": "13173829922928699",
+               "last_visited_desktop": "13196464605057970"
+            },
+            "name": "",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "http://www.reddit.com/"
+         }, {
+            "date_added": "12998423847460000",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13198089428230693"
+            },
+            "name": "",
+            "sync_transaction_version": "19",
+            "type": "url",
+            "url": "http://9gag.com/"
+         }, {
+            "date_added": "12998507058890000",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13195491521100755"
+            },
+            "name": "",
+            "sync_transaction_version": "20",
+            "type": "url",
+            "url": "http://www.songsterr.com/"
+         }, {
+            "date_added": "12999550932176000",
+            "id": "22",
+            "meta_info": {
+               "last_visited": "13183044328052118",
+               "last_visited_desktop": "13198702567199279"
+            },
+            "name": "",
+            "sync_transaction_version": "21",
+            "type": "url",
+            "url": "http://www.amazon.de/"
+         }, {
+            "date_added": "13033161846036000",
+            "id": "23",
+            "meta_info": {
+               "stars.id": "ssc_75a4527ea8553665",
+               "stars.imageData": "Cg5aRnNYdmJCM19Scy1pTRI9CjVodHRwOi8vbS1hLXRiLnNuZGNkbi5jb20vYXNzZXRzL2ltYWdlcy9lcnJvcnMvNDA0LnBuZxCmDBimAhpjCltodHRwOi8vdDAuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JMRUpvdGpZNjZveEJBTWdZUVA2bzVVUXFXaXZtLTFQWGg4VUxOZ0wwVkdkTW83SHY0EMABGJwBIhAIARDAARicAUIGEgSZPX0AKPCrz//1pMUC",
+               "stars.pageData": "Ig5ZdDdGbFUyQW9haExZTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome40"
+            },
+            "name": "",
+            "sync_transaction_version": "22",
+            "type": "url",
+            "url": "https://soundcloud.com/stream"
+         }, {
+            "date_added": "13082065410970600",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13198701836462810"
+            },
+            "name": "",
+            "sync_transaction_version": "23",
+            "type": "url",
+            "url": "https://mail.google.com/mail/ca"
+         }, {
+            "children": [ {
+               "date_added": "13082985557339000",
+               "id": "30",
+               "name": "How to make a keyboard – the matrix | komar's techblog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.komar.be/how-to-make-a-keyboard-the-matrix/"
+            }, {
+               "date_added": "13132801124786711",
+               "id": "31",
+               "meta_info": {
+                  "last_visited": "13135967251812397",
+                  "last_visited_desktop": "13193956464335221"
+               },
+               "name": "Xiaomi Air 13 Laptop-981.26 Online Shopping| GearBest.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.gearbest.com/laptops/pp_421980.html?wid=4"
+            } ],
+            "date_added": "13198867028998611",
+            "date_modified": "13198867028998611",
+            "id": "25",
+            "meta_info": {
+               "stars.id": "ssf_e98729c6f2ce97b8",
+               "stars.version": "sync.server.Chrome44"
+            },
+            "name": "Interessant",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13107455179489000",
+            "id": "26",
+            "meta_info": {
+               "last_visited_desktop": "13198537296801584"
+            },
+            "name": "WhatsApp Web",
+            "sync_transaction_version": "24",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13121110734778800",
+            "id": "27",
+            "meta_info": {
+               "last_visited": "13198589007239261",
+               "last_visited_desktop": "13196460260919758"
+            },
+            "name": "Moodle",
+            "sync_transaction_version": "25",
+            "type": "url",
+            "url": "https://lernen.h-da.de/"
+         }, {
+            "date_added": "13122037231384400",
+            "id": "28",
+            "name": "IT-Sicherheit",
+            "sync_transaction_version": "26",
+            "type": "url",
+            "url": "https://www.dasec.h-da.de/teaching/it-sicherheit-rathgeb-ws20162017/"
+         }, {
+            "date_added": "13127332610607000",
+            "id": "29",
+            "name": "C++ Tutorial | SoloLearn: Learn to code for FREE!",
+            "sync_transaction_version": "27",
+            "type": "url",
+            "url": "https://www.sololearn.com/Play/CPlusPlus#_=_"
+         } ],
+         "date_added": "13198867006038643",
+         "date_modified": "13127332610607000",
+         "id": "1",
+         "name": "Lesezeichenleiste",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13198867006038648",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "sync_transaction_version": "27",
+      "synced": {
+         "children": [ {
+            "date_added": "13087682280942802",
+            "id": "5",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_1004daec400ae9fd",
+               "stars.version": "sync.server.Clank45"
+            },
+            "name": "Mappingbase.de - Mapping Tutorials - Source Engine - CSS - CS:GO - UDK",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://mappingbase.de/threads/428-Navigationsnetze-f%C3%BCr-Bots-Geiseln"
+         }, {
+            "date_added": "13086748221394870",
+            "id": "6",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_84904619f7a214a3",
+               "stars.version": "sync.server.Clank45"
+            },
+            "name": "Install And Configure Burg In Ubuntu With Burg Manager ~ Web Upd8: Ubuntu / Linux blog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.webupd8.org/2010/10/install-and-configure-burg-in-ubuntu.html?m=1"
+         }, {
+            "date_added": "13103625732749439",
+            "id": "7",
+            "name": "I Built a Keyboard from Scratch",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://gizmodo.com/i-built-a-keyboard-from-scratch-1649325860"
+         }, {
+            "date_added": "13128967558008436",
+            "id": "8",
+            "name": "8 Saucen, die wirklich jeder Hobbykoch meistern sollte",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.de/amp/s/www.springlane.de/magazin/saucen-grundwissen/amp/?client=ms-android-om-lge"
+         }, {
+            "date_added": "13129333862258000",
+            "id": "9",
+            "name": "Electromania: Arduino - Fan RPM measurement using internal hall effect sensor (Hardware Interrupts and LCD)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://theelectromania.blogspot.de/2016/01/arduino-fan-speed-measurement-using.html"
+         }, {
+            "date_added": "13145786432411664",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13145786432415330"
+            },
+            "name": "HOW TO GET WHAT YOU WANT",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.kobakant.at/DIY/?p=2497"
+         }, {
+            "date_added": "13183945859103729",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13183945859110970"
+            },
+            "name": "Bodum Pebo 1208-01 Kaffeebereiter: Amazon.de: Küche & Haushalt",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.amazon.de/Bodum-1208-01-Pebo-Kaffeebereiter/dp/B00005NCX5/ref=mp_s_a_1_1?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&qid=1539466606&sr=8-1&pi=AC_SX236_SY340_QL65&keywords=Vakuum+Kaffeemaschine&dpPl=1&dpID=51x18JLDB%2BL&ref=plSrch"
+         }, {
+            "date_added": "13186488142254292",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13186488142257112"
+            },
+            "name": "Parallel Systems, DVA336, Autumn 2018",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.idt.mdh.se/kurser/DVA336/"
+         }, {
+            "date_added": "13186534438731051",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13186534544951372"
+            },
+            "name": "Nikka Pants (2530-406) | Tobi Japanese Workwear | Toraichi",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ninjaya.com/en/fashion/tobi-japanese-workwear-toraichi/tobi-japanese-workwear-nikka-pants-2530-406-antistatic.html"
+         }, {
+            "date_added": "13186571044112130",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13186573392876877",
+               "last_visited_desktop": "13198195887828291"
+            },
+            "name": "DVA339",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.danielhedin.net/dva339/"
+         }, {
+            "date_added": "13198688153663572",
+            "id": "15",
+            "meta_info": {
+               "last_visited": "13198688389905634"
+            },
+            "name": "Home | geli",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://geli.fbi.h-da.de/"
+         } ],
+         "date_added": "13198867006038649",
+         "date_modified": "13198688153663572",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
